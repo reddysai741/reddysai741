@@ -1,6 +1,8 @@
+<img src="https://github.com/reddysai741/reddysai741/blob/main/Data%20Analysis%20Banner.png">
 <h1 align="center">Hi 👋, I'm Sainath Reddy</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.classicinformatics.com/hubfs/Title1-1.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddysai741&label=Profile%20views&color=0e75b6&style=flat" alt="reddysai741" /> </p>
 
@@ -28,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddysai741&show_icons=true&locale=en&layout=compact" alt="reddysai741" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reddysai741&show_icons=true&locale=en" alt="reddysai741" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reddysai741&" alt="reddysai741" /></p>
